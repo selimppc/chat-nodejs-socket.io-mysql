@@ -3,9 +3,9 @@ chat-nodejs-socket.io-mysql
 
 ==Command== 
 
-##npm install 
-##npm install socket.io
-##npm install mysql
+## npm install 
+## npm install socket.io
+## npm install mysql
  
 == To run this project ==
 
@@ -13,4 +13,4 @@ chat-nodejs-socket.io-mysql
 
 == in browser ==
 
-##localhost:3000
+## localhost:3000
